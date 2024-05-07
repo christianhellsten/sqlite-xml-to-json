@@ -1,0 +1,149 @@
+{
+  "edgarSubmission": {
+    "@xsi:schemaLocation": "http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd",
+    "schemaVersion": "X0202",
+    "headerData": {
+      "submissionType": "13F-HR",
+      "filerInfo": {
+        "liveTestFlag": "LIVE",
+        "flags": {},
+        "filer": {
+          "credentials": {
+            "cik": "0001067983",
+            "ccc": "XXXXXXXX"
+          }
+        },
+        "periodOfReport": "12-31-2023"
+      }
+    },
+    "formData": {
+      "coverPage": {
+        "reportCalendarOrQuarter": "12-31-2023",
+        "isAmendment": "false",
+        "filingManager": {
+          "name": "Berkshire Hathaway Inc",
+          "address": {
+            "street1": "3555 Farnam Street",
+            "city": "Omaha",
+            "stateOrCountry": "NE",
+            "zipCode": "68131"
+          }
+        },
+        "reportType": "13F HOLDINGS REPORT",
+        "form13FFileNumber": "028-04545",
+        "provideInfoForInstruction5": "N"
+      },
+      "signatureBlock": {
+        "name": "Marc D. Hamburg",
+        "title": "Senior Vice President",
+        "phone": "402-346-1400",
+        "signature": "Marc D. Hamburg",
+        "city": "Omaha",
+        "stateOrCountry": "NE",
+        "signatureDate": "02-14-2024"
+      },
+      "summaryPage": {
+        "otherIncludedManagersCount": "14",
+        "tableEntryTotal": "138",
+        "tableValueTotal": "347358074461",
+        "isConfidentialOmitted": "true",
+        "otherManagers2Info": {
+          "otherManager2": [
+            {},
+            {
+              "sequenceNumber": "2",
+              "otherManager": {
+                "form13FFileNumber": "28-5678",
+                "name": "Berkshire Hathaway Life Insurance Co of Nebraska"
+              }
+            },
+            {
+              "sequenceNumber": "3",
+              "otherManager": {
+                "form13FFileNumber": "28-14389",
+                "name": "BH Finance LLC"
+              }
+            },
+            {
+              "sequenceNumber": "4",
+              "otherManager": {
+                "form13FFileNumber": "28-554",
+                "name": "Buffett Warren E"
+              }
+            },
+            {
+              "sequenceNumber": "5",
+              "otherManager": {
+                "form13FFileNumber": "28-1517",
+                "name": "Columbia Insurance Co"
+              }
+            },
+            {
+              "sequenceNumber": "6",
+              "otherManager": {
+                "form13FFileNumber": "28-06102",
+                "name": "Cypress Insurance Co"
+              }
+            },
+            {
+              "sequenceNumber": "7",
+              "otherManager": {
+                "form13FFileNumber": "28-04922",
+                "name": "General Re Corp"
+              }
+            },
+            {
+              "sequenceNumber": "8",
+              "otherManager": {
+                "form13FFileNumber": "28-852",
+                "name": "GEICO Corp"
+              }
+            },
+            {
+              "sequenceNumber": "9",
+              "otherManager": {
+                "form13FFileNumber": "28-12941",
+                "name": "Medical Protective Corp"
+              }
+            },
+            {
+              "sequenceNumber": "10",
+              "otherManager": {
+                "form13FFileNumber": "28-1066",
+                "name": "National Fire & Marine Insurance Co"
+              }
+            },
+            {
+              "sequenceNumber": "11",
+              "otherManager": {
+                "form13FFileNumber": "28-718",
+                "name": "National Indemnity Co"
+              }
+            },
+            {
+              "sequenceNumber": "12",
+              "otherManager": {
+                "form13FFileNumber": "28-5006",
+                "name": "National Liability & Fire Insurance Co"
+              }
+            },
+            {
+              "sequenceNumber": "13",
+              "otherManager": {
+                "form13FFileNumber": "28-11222",
+                "name": "Nebraska Furniture Mart"
+              }
+            },
+            {
+              "sequenceNumber": "14",
+              "otherManager": {
+                "form13FFileNumber": "28-12947",
+                "name": "U.S. Investment Corp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
